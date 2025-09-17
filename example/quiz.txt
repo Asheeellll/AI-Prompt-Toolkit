@@ -1,0 +1,75 @@
+Here’s a ready-to-use Python Basics quiz with 8 MCQs:
+
+Question 1:
+Which of the following is a mutable data type in Python?
+A) Tuple
+B) String
+C) List
+D) Integer
+Correct Answer: C
+Explanation: Lists can be modified after creation; tuples and strings cannot.
+
+Question 2:
+What will be the output of print(2 ** 3)?
+A) 6
+B) 8
+C) 9
+D) 5
+Correct Answer: B
+Explanation: ** is the exponent operator, so 2³ = 8.
+
+Question 3:
+Which keyword is used to define a function in Python?
+A) func
+B) define
+C) def
+D) function
+Correct Answer: C
+
+Question 4:
+What does len("Python") return?
+A) 5
+B) 6
+C) 7
+D) Error
+Correct Answer: B
+
+Question 5:
+Which of these statements is correct to swap two variables a and b?
+A) a = b; b = a
+B) a, b = b, a
+C) swap(a, b)
+D) a = a + b; b = a - b
+Correct Answer: B
+Explanation: a, b = b, a is Python’s clean syntax for swapping values.
+
+Question 6:
+What type of loop is best when the number of iterations is known?
+A) while loop
+B) for loop
+C) do-while loop
+D) infinite loop
+Correct Answer: B
+
+Question 7:
+Which of the following is used to comment a single line in Python?
+A) // comment
+B) <!-- comment -->
+C) # comment
+D) /* comment */
+Correct Answer: C
+
+Question 8:
+What is the output of the following code?
+
+x = 5
+y = 2
+print(x // y)
+
+
+A) 2.5
+B) 2
+C) 3
+D) 0
+Correct Answer: B
+Explanation: // is the floor division operator, which returns the integer part of division.

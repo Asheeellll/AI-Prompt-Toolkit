@@ -1,0 +1,19 @@
+You are an AI expert. Your task is to create a **quiz** for the topic below.
+
+Requirements:
+- Generate 5–10 multiple-choice questions (MCQs) or flashcards.
+- Each MCQ should have 1 correct answer and 3 distractors.
+- Clearly indicate the correct answer for each question.
+- Format output like this:
+  Question 1:
+  A) Option 1
+  B) Option 2
+  C) Option 3
+  D) Option 4
+  Correct Answer: B
+- Make questions concise and beginner-friendly but educational.
+- Include 1–2 small explanations for tricky answers if needed.
+
+Topic: {INSERT_TOPIC_HERE}
+
+Output: ready-to-use quiz/flashcards.

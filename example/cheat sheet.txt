@@ -1,0 +1,123 @@
+Python Basics Cheat Sheet (PDF-Ready Layout)
+
+Instructions:
+
+Each section is a box (use rectangle in Canva/Word).
+
+Section titles in bold, larger font, color-coded:
+
+Python Fundamentals → light blue
+
+Operators → green
+
+Control Flow → orange
+
+Functions → purple
+
+Data Structures → yellow
+
+Input & Output → grey
+
+Built-ins → teal
+
+Tips → red
+
+Code snippets in monospace font.
+
+Important keywords bolded.
+
+1️⃣ Python Fundamentals
+
+Python: High-level, interpreted, dynamic programming language
+Variables: Store data, no type declaration
+
+x = 10
+name = "Asheel"
+
+
+Data Types: int, float, complex, str, bool, list, tuple, set, dict
+
+2️⃣ Operators
+
+Arithmetic: +, -, *, /, //, %, **
+
+Comparison: ==, !=, >, <, >=, <=
+
+Logical: and, or, not
+
+Assignment: =, +=, -=, *=, /=
+
+⚡ Tip: x += 1 faster than x = x + 1
+
+3️⃣ Control Flow
+
+If-Else
+
+if x > 0:
+    print("Positive")
+elif x == 0:
+    print("Zero")
+else:
+    print("Negative")
+
+
+Loops
+
+For loop: for i in range(5): print(i)
+
+While loop: while x > 0: x -= 1
+
+break → exit loop, continue → skip iteration
+
+4️⃣ Functions
+
+Define reusable blocks
+
+def greet(name):
+    return f"Hello, {name}!"
+print(greet("Asheel"))
+
+
+Lambda (short functions)
+
+square = lambda x: x**2
+print(square(5))  # 25
+
+5️⃣ Data Structures
+
+List: Mutable ordered collection
+
+nums = [1,2,3]
+nums.append(4)  # [1,2,3,4]
+
+
+Tuple: Immutable ordered collection
+
+coords = (10,20)
+
+
+Set: Unordered, unique items
+
+s = {1,2,2,3}  # {1,2,3}
+
+
+Dictionary: Key-value pairs
+
+student = {"name":"Asheel","age":21}
+print(student["name"])  # Asheel
+
+6️⃣ Input & Output
+print("Hello", name)
+age = int(input("Enter age: "))
+
+7️⃣ Useful Built-in Functions
+
+len(), type(), range(start, stop, step), sum(), min(), max(), sorted(), list(), str()
+
+8️⃣ Mini Tips & Shortcuts
+
+f-strings: f"My name is {name}, age {age}"
+
+Swap variables without temp: a, b = b, a
+
+List comprehension: [x**2 for x in range(5)]

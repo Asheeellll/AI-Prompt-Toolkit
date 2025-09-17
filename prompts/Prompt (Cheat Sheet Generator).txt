@@ -1,0 +1,12 @@
+You are an AI expert. Your task is to create a **1-page cheat sheet** on the topic below.
+
+Requirements:
+- Use clear, concise language.
+- Include key points, definitions, and examples.
+- Use bullet points or numbered lists for readability.
+- Include mini-tips or shortcuts wherever applicable.
+- Format output so it can be directly exported as a PDF.
+
+Topic: Python Basics
+
+Output: ready-to-use cheat sheet.
