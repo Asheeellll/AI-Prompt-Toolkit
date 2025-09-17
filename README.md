@@ -25,7 +25,9 @@ AI-PROMPT-TOOLKIT/
 
 └── prompts/
     ├── Prompt (Cheat Sheet Generator).txt
+    
     ├── Prompt (Quiz Flashcard Generator).txt
+    
     └── Prompt (Study Planner Generator).txt
     
 
