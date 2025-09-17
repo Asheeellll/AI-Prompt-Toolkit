@@ -24,11 +24,11 @@ AI-PROMPT-TOOLKIT/
 │   └── study plan.txt / .pdf
 
 └── prompts/
-    ├── Prompt (Cheat Sheet Generator).txt
-    
-    ├── Prompt (Quiz Flashcard Generator).txt
-    
-    └── Prompt (Study Planner Generator).txt
+        ├── Prompt (Cheat Sheet Generator).txt
+        
+  ├── Prompt (Quiz Flashcard Generator).tx
+
+└── Prompt (Study Planner Generator).txt
     
 
 How to Use
