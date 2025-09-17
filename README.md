@@ -15,14 +15,19 @@ Study Planners – personalized weekly or monthly schedules based on topics, dur
 
 Folder Structure
 AI-PROMPT-TOOLKIT/
-├── example/        # Generated outputs
+├── example/
+
 │   ├── cheat sheet.txt / .pdf
+
 │   ├── quiz.txt / .pdf
+
 │   └── study plan.txt / .pdf
-└── prompts/        # Reusable prompt templates
+
+└── prompts/
     ├── Prompt (Cheat Sheet Generator).txt
     ├── Prompt (Quiz Flashcard Generator).txt
     └── Prompt (Study Planner Generator).txt
+    
 
 How to Use
 1. Python Script (Recommended – Automated)
