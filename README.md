@@ -42,8 +42,8 @@ pip install openai fpdf python-dotenv
 Set your OpenAI API key (recommended via environment variable or .env file):
 
 setx OPENAI_API_KEY "YOUR_API_KEY_HERE"   # Windows CMD
-# or PowerShell
-$env:OPENAI_API_KEY="YOUR_API_KEY_HERE"
+
+$env:OPENAI_API_KEY="YOUR_API_KEY_HERE"   # or PowerShell
 
 
 Run the script:
